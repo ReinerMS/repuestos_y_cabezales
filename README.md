@@ -12,21 +12,16 @@ Bienvenido a nuestro proyecto donde destacamos la **excelencia en maquinaria** y
 - ✅ **Lubricación inmediata de todas las partes del motor.**
 - ✅ **Altas propiedades detergentes, evitando la formación de depósitos en los pistones.**
 
-![Taller](./path/to/image_taller.png)
-
 ---
 
 ### 🔧 Repuestos
 Ofrecemos repuestos de calidad superior para asegurar el rendimiento de tu maquinaria. ¡Encuentra todo lo que necesitas para mantener tu equipo funcionando de manera óptima!
-
-![Repuestos](./path/to/image_repuestos.png)
 
 ---
 
 ### ⚙️ Servicio de Torno
 ¿Necesitas precisión y calidad en el maquinado? ¡Nosotros somos la respuesta! Contamos con un servicio de torno especializado para realizar trabajos de alta calidad en cada proyecto.
 
-![Servicio de Torno](./path/to/image_torno.png)
 
 ---
 
